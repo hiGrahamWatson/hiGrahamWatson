@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Graham Watson</h1>
 <h3 align="center">A passionate full stack dev from Canada</h3>
 
-<p align="left"> <a href="https://twitter.com/higrahamwatson" target="blank"><img src="https://img.shields.io/twitter/follow/higrahamwatson?logo=twitter&style=for-the-badge" alt="higrahamwatson" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio Sites for Freelance Clients](https://higrahamwatson.github.io/CommunityActionFoundation/)
 
