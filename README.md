@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Graham Watson</h1>
+<h1 align="center">Hi, I'm Graham</h1>
 <h3 align="center">A passionate full stack dev from Canada</h3>
 
 
 - 🔭 I’m currently working on [Portfolio Sites for Freelance Clients](https://higrahamwatson.github.io/CommunityActionFoundation/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js & getting my head around backend**
 
 - 🤝 I’m looking for help with **AI Resources**
 
