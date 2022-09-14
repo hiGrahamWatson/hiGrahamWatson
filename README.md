@@ -2,11 +2,9 @@
 <h3 align="center">A passionate full stack dev from Canada</h3>
 
 
-- 🔭 I’m currently working on [Portfolio Sites for Freelance Clients](https://higrahamwatson.github.io/CommunityActionFoundation/)
+- 🔭 I’m currently working on **Portfolio Sites for Freelance Clients**
 
 - 🌱 I’m currently learning **Node.js & getting my head around backend**
-
-- 🤝 I’m looking for help with **AI Resources**
 
 - 📫 How to reach me **higrahamwatson@gmail.com**
 
