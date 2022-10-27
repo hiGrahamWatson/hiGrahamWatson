@@ -2,11 +2,9 @@
 <h3 align="center">A passionate full stack dev from Canada</h3>
 
 
-- 🔭 I’m currently working on **Portfolio Sites for Freelance Clients**
+- 🔭 I’m currently working on **Building Stripe Integrations**
 
-- 🌱 I’m currently learning **Node.js & getting my head around backend**
-
-- 📫 How to reach me **higrahamwatson@gmail.com**
+- 🌱 I’m currently learning **Vue and Firebase**
 
 - ⚡ Fun fact **I can recite the alphabet backwards.**
 
