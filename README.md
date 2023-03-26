@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack dev from Canada</h3>
 
 
-- 🔭 I’m currently working on **Stripe integrations**
+- 🔭 I’m currently working on **Client Sites**
 
 - 🌱 I’m currently learning **Vue and Firebase**
 
