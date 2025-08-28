@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full stack dev from Canada</h3>
 
 
-- 🔭 I’m currently working on **Client Sites**
+- 🔭 I’m currently working on **Not Breaking my computer**
 
-- 🌱 I’m currently learning **Vue and Firebase**
+- 🌱 I’m currently learning **Everything**
 
 - ⚡ Fun fact **I can recite the alphabet backwards.**
 
